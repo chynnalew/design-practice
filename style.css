@@ -12,11 +12,9 @@ FONT SIZE SYSTEM (px)
   box-sizing: border-box;
 }
 
-/* ------------------------ */
 /* GENERAL STYLES */
-/* ------------------------ */
 body {
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .container {
@@ -30,6 +28,8 @@ section {
 }
 
 h2 {
+  font-size: 36px;
+  letter-spacing: -0.5px;
   margin-bottom: 48px;
 }
 
@@ -56,10 +56,15 @@ header {
 }
 
 h1 {
+  font-size: 44px;
+  line-height: 1.1;
+  letter-spacing: -1px;
   margin-bottom: 24px;
 }
 
 .header-text {
+  font-size: 18px;
+  line-height: 1.5;
   margin-bottom: 24px;
 }
 
@@ -72,10 +77,13 @@ img {
 }
 
 .features-title {
+  font-size: 20px;
   margin-bottom: 16px;
 }
 
 .features-text {
+  font-size: 18px;
+  line-height: 1.5;
 }
 
 /* TESTIMONIAL */
@@ -88,44 +96,49 @@ img {
 }
 
 .testimonial-box h2 {
+  font-size: 24px;
   margin-bottom: 24px;
 }
 
 .testimonial-text {
   font-style: italic;
+  font-size: 18px;
+  line-height: 1.5;
   margin-bottom: 24px;
 }
 
-/* CHAIRS */
-.chair-box {
+/* productS */
+.product-box {
   padding: 24px;
 }
 
 h3 {
+  font-size: 20px;
   margin-bottom: 24px;
 }
 
-.chair-details {
+.product-details {
   list-style: none;
   margin-bottom: 24px;
 }
 
-.chair-details li {
+.product-details li {
   display: flex;
   align-items: center;
   gap: 12px;
   margin-bottom: 24px;
 }
 
-.chair-details li:last-child {
+.product-details li:last-child {
   margin-bottom: 0;
 }
 
-.chair-icon {
+.product-icon {
 }
 
-.chair-price {
+.product-price {
   display: flex;
+  font-size: 20px;
   justify-content: space-between;
 }
 
