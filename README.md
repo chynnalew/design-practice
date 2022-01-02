@@ -13,7 +13,12 @@
 
 ## Description
 
-This static site was created to practice web design elements using HTML and CSS. The layout is built with CSS Grid System and Flex-box elements. Fonts are from Google Fonts API.
+This static site was created to practice web design elements using HTML and CSS. 
+The layout is built with CSS Grid System and Flex-box elements. 
+<br/>
+All fonts are from Google Fonts API. 
+<br/>
+All images are open source from Unsplash.
 
 <hr/>
 
