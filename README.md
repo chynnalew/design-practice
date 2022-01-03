@@ -32,5 +32,8 @@ All images are open source from Unsplash.
 
 MIT
 
-##### Created by (loosely) following a tutorial by [Jonas Schmedtmann](https://www.youtube.com/channel/UCNsU-y15AwmU2Q8QTQJG1jw)
+<hr/>
 
+## Contact
+
+Chynna Lew
