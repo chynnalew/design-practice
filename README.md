@@ -19,7 +19,6 @@ The layout is built with CSS Grid System and Flex-box elements.
 All fonts are from Google Fonts API. 
 <br/>
 All images are open source from Unsplash.
-
 <hr/>
 
 ## Installation Instructions
@@ -32,4 +31,6 @@ All images are open source from Unsplash.
 ## License
 
 MIT
+
+##### Created by (loosely) following a tutorial by [Jonas Schmedtmann](https://www.youtube.com/channel/UCNsU-y15AwmU2Q8QTQJG1jw)
 
